@@ -15,7 +15,7 @@ python -m venv venv
 .\venv\scripts\activate
 ```
 ```
-pip install pandas tqdm mysql-connector-python
+pip install pandas mysql-connector-python
 ```
 ```
 python export_csv.py
